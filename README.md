@@ -5,9 +5,9 @@ This project is intended to give me a insight into handling graphic environment.
 ## Resources
 
 ### Documentations
-[Xorg Documentation](https://www.x.org/wiki/Documentation/)
-[42 minilibx Documentation](https://github.com/42Paris/minilibx-linux/tree/master)
+[Xorg Documentation](https://www.x.org/wiki/Documentation/)<br>
+[42 minilibx Documentation](https://github.com/42Paris/minilibx-linux/tree/master)<br>
 
 ### Useful resrouces
-[42 Student translation of minilibx docs](https://harm-smits.github.io/42docs/libs/minilibx.html)
-[YT introduction to minilibx](https://www.youtube.com/watch?v=bYS93r6U0zg&t=0s)
+[42 Student translation of minilibx docs](https://harm-smits.github.io/42docs/libs/minilibx.html)<br>
+[YT introduction to minilibx](https://www.youtube.com/watch?v=bYS93r6U0zg&t=0s)<br>
